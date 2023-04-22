@@ -317,5 +317,5 @@ section:nth-of-type(4){border: none;}
 #copy{background-color:rgb(21, 27, 67);height: 3rem;width: 100%;}
 #copy p, #copy a{text-align: center;font-family: sans-serif;color: rgba(240, 248, 255, 0.548);}
 
-@media (max-width: 768px){#models{grid-template-columns: repeat(1,280px);}}
+@media (max-width: 768px){#models{grid-template-columns: repeat(1,280px)}.nav-link{font-size: 1.2rem;margin-right: -10px;}}
 
